@@ -22,7 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-
+![output1](./1.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
