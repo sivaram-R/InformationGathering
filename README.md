@@ -30,6 +30,12 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![output1](./3.png)
 ## WEB ARCHIVE:
 ![output1](./4.png)
+## NMAP:
+![output1](./5.png)
+## WHATWEB:
+![output1](./6.png)
+## TRACEROUTE:
+![output1](./7.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
