@@ -22,7 +22,14 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+## WHOIS:
 ![output1](./1.png)
+## IP2LOCATION:
+![output1](./2.png)
+## PING:
+![output1](./3.png)
+## WEB ARCHIVE:
+![output1](./4.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
